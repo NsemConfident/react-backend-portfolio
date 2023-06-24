@@ -1,7 +1,7 @@
 require("dotenv").config;
 
 const MONGO_DB_CONFIG={
-    DB:'mongodb+srv://tchetzzgreat:XZ57lA1jPXgzK61e@myportfoliobackend.as4hvyf.mongodb.net/ReactFrontendProject?retryWrites=true&w=majority'
+    DB:'mongodb+srv://NsemNjock:Nsem2002@backend.fgrfy85.mongodb.net/?retryWrites=true&w=majority'
 }
 
 
